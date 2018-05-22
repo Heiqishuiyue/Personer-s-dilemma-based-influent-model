@@ -1,0 +1,80 @@
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.90, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.12]
+node 5, random: 0.09, exploration , D, payoff: 1.2, current q table: [C: 0.00, D: 0.12]
+node 6, random: 0.02, exploration , D, payoff: 1.2, current q table: [C: 0.00, D: 0.12]
+
+
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.93, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.24]
+node 5, random: 0.16, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.24]
+node 6, random: 0.65, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.24]
+
+
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.02, exploration , D, payoff: 1.2, current q table: [C: 0.00, D: 0.35]
+node 5, random: 0.28, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.35]
+node 6, random: 0.97, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.35]
+
+
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.24, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.45]
+node 5, random: 0.31, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.45]
+node 6, random: 0.92, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.45]
+
+
+node 1, random: 0.00, None        , C, payoff: 3.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.40, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.55]
+node 5, random: 0.05, exploration , C, payoff: 1.0, current q table: [C: 0.13, D: 0.45]
+node 6, random: 0.70, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.55]
+
+
+node 1, random: 0.00, None        , C, payoff: 3.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.48, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.65]
+node 5, random: 0.07, exploration , C, payoff: 1.0, current q table: [C: 0.24, D: 0.45]
+node 6, random: 0.58, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.65]
+
+
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.10, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.75]
+node 5, random: 0.73, exploitation, D, payoff: 1.2, current q table: [C: 0.24, D: 0.55]
+node 6, random: 0.34, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.75]
+
+
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.90, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.84]
+node 5, random: 0.73, exploitation, D, payoff: 1.2, current q table: [C: 0.24, D: 0.65]
+node 6, random: 0.45, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.84]
+
+
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.33, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.92]
+node 5, random: 0.76, exploitation, D, payoff: 1.2, current q table: [C: 0.24, D: 0.75]
+node 6, random: 0.80, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 0.92]
+
+
+node 1, random: 0.00, None        , C, payoff: 2.0, current q table: [C: 0.00, D: 0.00]
+node 2, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 3, random: 0.00, None        , C, payoff: 1.0, current q table: [C: 0.00, D: 0.00]
+node 4, random: 0.03, exploration , D, payoff: 1.2, current q table: [C: 0.00, D: 1.01]
+node 5, random: 0.99, exploitation, D, payoff: 1.2, current q table: [C: 0.24, D: 0.84]
+node 6, random: 0.99, exploitation, D, payoff: 1.2, current q table: [C: 0.00, D: 1.01]
+
+
